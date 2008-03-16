@@ -14,3 +14,5 @@ C:\Documents and Settings\Joe\Desktop\New Folder (2)\WindowsFormsApplication1\ob
 C:\Documents and Settings\Joe\Desktop\New Folder (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Documents and Settings\Joe\Desktop\New Folder (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Documents and Settings\Joe\Desktop\New Folder (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Joe\Desktop\Copy of New Folder (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Joe\Desktop\Copy of New Folder (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
